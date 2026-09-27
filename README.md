@@ -56,8 +56,6 @@ I enjoy solving complex engineering problems and designing reliable, scalable, a
 - AI Agents
 - Embeddings
 - Vector Search
-- LangChain
-- LlamaIndex
 - Spring AI
 - Ollama
 
@@ -138,7 +136,7 @@ Areas of interest:
 - Agentic AI
 - Cloud-Native Architecture
 
----
+<!-- ---
 
 ## 🎓 Certification
 
@@ -152,7 +150,7 @@ Completed coursework covering:
 - AI for Writing & Communicating
 - AI for Content Creation
 - AI for Data Analysis
-- AI for App Building
+- AI for App Building -->
 
 ---
 
