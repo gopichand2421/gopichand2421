@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gopi Chand
+# 👋 Hi, I'm Gopichand Senagavarapu
 
 ### Senior Software Engineer | Java | Spring Boot | AI | Cloud | Distributed Systems
 
