@@ -126,15 +126,10 @@ Areas of interest:
 
 ## 📚 Currently Learning
 
-- Advanced System Design
-- Distributed Systems
-- Software Architecture
-- Advanced Java
-- JVM Internals & Performance
-- Data Structures & Algorithms
-- Generative AI
-- Agentic AI
-- Cloud-Native Architecture
+- IOS Swift UI
+- React Native
+- Advanced AI Architectures
+- Advanced Prompt Engineering
 
 <!-- ---
 
